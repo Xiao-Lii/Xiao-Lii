@@ -1,7 +1,25 @@
-### Hi there 👋
+### Hello world - I'm Lee, Here's a sneak peak of everything I've done(publicly) on Github 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiao-Lii&theme=github_dark&show_icons=true&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-Lii&theme=github_dark&layout=compact)](https://github.com/Xiao-Lii/github-readme-stats)
+
 
 <!--
 **Xiao-Lii/Xiao-Lii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+To align cards side by side, utilize the code below
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+### Check Out Some of the Projects I've Worked On!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xiao-Lii&theme=github_dark&repo=TicTacToe_CServerClient)](https://github.com/Xiao-Lii/TicTacToe_CServerClient)
 
 Here are some ideas to get you started:
 
@@ -11,6 +29,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
