@@ -5,10 +5,10 @@ An aspiring software engineer who wants to bridge the gap of - I wish we had thi
 <br>With endless optimism, I enjoy tackling problems with an infectious smile.
 <br>Driven by a passion to deliver clean, well-written, and tested code that goes above and beyond. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiao-Lii&theme=slateorange&show_icons=true&count_private=true&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiao-Lii&theme=react&show_icons=true&count_private=true&hide=stars)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-Lii&theme=slateorange&layout=compact)](https://github.com/Xiao-Lii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-Lii&theme=react&layout=compact)](https://github.com/Xiao-Lii/github-readme-stats)
 
 </div>
 <!--
