@@ -20,28 +20,30 @@
 
 ## Languages and Tools 
 <a href="https://github.com/Xiao-Lii/github-readme-stats">
-  <img align="center" src="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
-  <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img align="center" src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" />
-  <img align="center" src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" />
-  <img align="center" src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" />
-  <img align="center" src="https://camo.githubusercontent.com/510a057988cb5216f5d297ee202f6a08fa179798926cea28e95910f6b8ca5535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465" />
-
-
-
-  <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
-
-</a>
-
-## Credits
-Thanks to [Anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub Stats badge
-<br>Thanks to [For The Badges](https://forthebadge.com) for the powered by badges 
-<br>Thanks to [Postman API](https://www.postman.com) for the astronaut png 
+  <p>&nbsp;
+    <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+    <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
+    <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
+    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javaScript"/>
+    <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+    <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+    <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+    <img align="center" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="cLion"/></p>
+    <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
+    <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs Code"/>
+</a>  
   
+## Credits
+  Thanks to [Anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub Stats badge
+  <br>Thanks to [For The Badges](https://forthebadge.com) for the powered by badges 
+  <br> Thanks to [Ileriayo](https://github.com/Ileriayo/markdown-badges) for the language, tool, & framework badges
+  <br>Credit to [Postman API](https://www.postman.com) for the astronaut png
+
 <br><img align="center" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
 <img align="center" src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+<div align="left">
+  
 </div>
 
 <!--
@@ -50,6 +52,14 @@ Thanks to [Anuraghazra](https://github.com/anuraghazra/github-readme-stats) for 
 <img src="https://blog.postman.com/wp-content/uploads/2019/11/team-collaboration-postmanaut_1BKG.png" width="400" alt="astronauts jumping in space">
 <img src="https://blog.postman.com/wp-content/uploads/2019/11/jobs-to-be-done.png" width="400" alt="astronauts jumping in space">
 <img src="https://brainfit.gallerycdn.vsassets.io/extensions/brainfit/vscode-coverage-highlighter/1.0.3/1551168778894/Microsoft.VisualStudio.Services.Icons.Default" width="300" alt="astronauts jumping in space">
+
+For Full-Stack Web Development Completion Course Badges, Tools, and Languages 
+<img align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap4"/>
+<img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
+<img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node js"/> 
+<img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express js"/>  
+<img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo DB"/> 
+<img align="center" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-Lii&theme=react&layout=compact)](https://github.com/Xiao-Lii/github-readme-stats)
 
