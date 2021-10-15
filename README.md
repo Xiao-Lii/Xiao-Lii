@@ -1,13 +1,14 @@
 <div align="center">
 
 ## Hello world 👋 I'm Lee
-An aspiring software engineer with a contagious smile who enjoys building personable relationships with teams that feel like family.
-Driven by a passion to go above and beyond the ordinary. Let's code together. 
+An aspiring software engineer who wants to bridge the gap of - I wish we had this, to - let's make it happen. 
+<br>With endless optimism, I enjoy tackling problems with an infectious smile.
+<br>Driven by a passion to deliver clean, well-written, and tested code that goes above and beyond. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiao-Lii&theme=github_dark&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiao-Lii&theme=slateorange&show_icons=true&count_private=true&hide=stars)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-Lii&theme=github_dark&layout=compact)](https://github.com/Xiao-Lii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-Lii&theme=slateorange&layout=compact)](https://github.com/Xiao-Lii/github-readme-stats)
 
 </div>
 <!--
