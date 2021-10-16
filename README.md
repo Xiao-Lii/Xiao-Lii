@@ -64,10 +64,11 @@
   
 ## Check out my Repos ↓
 </div>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/>
 
 <!--
 **Xiao-Lii/Xiao-Lii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/>
 
 <img src="https://blog.postman.com/wp-content/uploads/2019/11/team-collaboration-postmanaut_1BKG.png" width="400" alt="astronauts jumping in space">
 <img src="https://blog.postman.com/wp-content/uploads/2019/11/jobs-to-be-done.png" width="400" alt="astronauts jumping in space">
