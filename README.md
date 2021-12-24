@@ -12,7 +12,7 @@
   
 <br>Aspiring software engineer who wants to bridge the gap of - I wish we had this, to - let's make it happen. 
 <br>With endless optimism, I enjoy tackling problems with an infectious smile.
-<br>Driven by a passion to deliver clean, well-written, and tested code that goes above and beyond. 
+<br>Driven by a passion to deliver clean, well-documented, and tested code that goes above and beyond. 
   
 <img src="https://blog.postman.com/wp-content/uploads/2020/06/schema-postmanautBKG.png" width="400" alt="astronaut in front of screen">
 
