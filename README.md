@@ -10,7 +10,7 @@
   </a>
 
   
-<br>Aspiring software engineer who wants to bridge the gap of - I wish we had this, to - let's make it happen. 
+<br>Software engineer who wants to bridge the gap of - I wish we had this, to - let's make it happen. 
 <br>With endless optimism, I enjoy tackling problems with an infectious smile.
 <br>Driven by a passion to deliver clean, well-documented, and tested code that goes above and beyond. 
   
