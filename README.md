@@ -8,6 +8,8 @@
 <a href="mailto:leephonthongsy@gmail.com">
    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
+<img align="center" src="https://komarev.com/ghpvc/?username=Xiao-Lii&style=for-the-badge" />
+
 
   
 <br>Software engineer who wants to bridge the gap of - I wish we had this, to - let's make it happen. 
@@ -59,6 +61,7 @@
 <img align="center" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
 <img align="center" src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img align="center" src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+
 </p>
   
 ## Check out my Repos ↓
