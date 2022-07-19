@@ -56,6 +56,7 @@
   <br>Thanks to [For The Badges](https://forthebadge.com) for the powered by badges
   <br>Thanks to [Alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile) for the social & language badges
   <br>Thanks to [Ileriayo](https://github.com/Ileriayo/markdown-badges) for the language, tool, & framework badges
+  <br>Thanks to [Antonkomarev](https://github.com/antonkomarev/github-profile-views-counter) for the profile view counter
 
 <p>
 <img align="center" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
