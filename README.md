@@ -1,6 +1,6 @@
 <div align="center">
 
-## Fear only exists for one purpose — To be conquered 
+## Fear only exists for one purpose, to be conquered — Kathryn Janeway
 
 <a href="https://www.linkedin.com/in/lee-phonthongsy">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -60,64 +60,9 @@
 
 <p>
 <img align="center" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
-<img align="center" src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img align="center" src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 
 </p>
   
 ## Check out my Repos ↓
 </div>
-
-<!--
-## Weeding Out My Weaknesses in 
-<a>
-  <p>&nbsp;
-    <img src="" alt=""/>
-    <img src="" alt=""/>
-    <img src="" alt=""/>
-    <img src="" alt=""/>
-
-  </p>
-</a>
-## Credit to [Postman API](https://www.postman.com) for the astronaut png
-<img src="https://blog.postman.com/wp-content/uploads/2019/12/Skills.png" width="400" alt="astronaut in front of screen">
-<img src="https://pngimg.com/uploads/astronaut/astronaut_PNG29.png" width="400" alt="astronaut waving">
-
-<img src="https://blog.postman.com/wp-content/uploads/2019/11/team-collaboration-postmanaut_1BKG.png" width="400" alt="astronauts jumping in space">
-<img src="https://blog.postman.com/wp-content/uploads/2019/11/jobs-to-be-done.png" width="400" alt="astronauts jumping in space">
-<img src="https://user-images.githubusercontent.com/69813214/179671342-1a512006-c0b3-4b57-85ac-9a2366de9f0b.png" width="400" alt="astronaut">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-Lii&theme=react&layout=compact)](https://github.com/Xiao-Lii/github-readme-stats)
-
-To align cards side by side, utilize the code below
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xiao-Lii&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xiao-Lii&repo=convoychat" />
-</a>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
-
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
--->
