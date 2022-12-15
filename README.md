@@ -18,8 +18,10 @@
 
 <img src="https://pngimg.com/uploads/astronaut/astronaut_PNG29.png" width="400" alt="astronaut waving">
 
-<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiao-Lii&theme=react&show_icons=true&count_private=true&hide=stars)
-
+<!---
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparentt&show_icons=true&count_private=true&hide=stars)
+-->
+  
 ## The Languages and Tools of my Trade
 <a>
   <p>&nbsp;
