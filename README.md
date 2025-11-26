@@ -8,7 +8,7 @@ Software engineer who wants to bridge the gap of - I wish we had this, to - let'
 <!-- <img src="https://pngimg.com/uploads/astronaut/astronaut_PNG29.png" width="400" alt="astronaut waving"> -->
 <img align="center" src="https://komarev.com/ghpvc/?username=Xiao-Lii&style=for-the-badge" />
 
-## The Languages and Tools of my Trade
+## The Languages and Tools of My Trade
 <p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
@@ -51,7 +51,7 @@ Thanks to [For The Badges](https://forthebadge.com) for the powered by badges
   <img align="center" src="https://forthebadge.com/badges/powered-by-coffee.svg"/>
 </p>
 
-## Check out my Repos ↓
+## Check Out My Repos ↓
 <p>
   <img align="center" src="https://forthebadge.com/badges/built-with-love.svg"/>
   <img align="center" src="https://forthebadge.com/badges/kinda-sfw.svg"/>
