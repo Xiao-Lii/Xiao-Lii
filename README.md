@@ -5,9 +5,6 @@ Software engineer who wants to bridge the gap of - I wish we had this, to - let'
 <br>Dabbling in DevSecOps, automation, and now full-stack development.
 <br>Driven by a passion to mentor and foster close knit teams who can deliver clean, well-documented, and tested code that goes above and beyond.
 
-<!-- <img src="https://pngimg.com/uploads/astronaut/astronaut_PNG29.png" width="400" alt="astronaut waving"> -->
-<img align="center" src="https://komarev.com/ghpvc/?username=Xiao-Lii&style=for-the-badge" />
-
 ## The Languages and Tools of My Trade
 <p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
